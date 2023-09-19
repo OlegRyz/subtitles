@@ -1,0 +1,13 @@
+WEBVTT
+
+1
+00:00.230 --> 00:10.606
+This is the first subtitle.
+
+2
+00:11.739 --> 00:13.074
+This is the second.
+
+3
+00:14.159 --> 00:35.743
+Third
